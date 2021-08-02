@@ -1,0 +1,16 @@
+C:\Users\lucas.chacon\introducaoOO\bin\Debug\net5.0\introducaoOO.exe
+C:\Users\lucas.chacon\introducaoOO\bin\Debug\net5.0\introducaoOO.deps.json
+C:\Users\lucas.chacon\introducaoOO\bin\Debug\net5.0\introducaoOO.runtimeconfig.json
+C:\Users\lucas.chacon\introducaoOO\bin\Debug\net5.0\introducaoOO.runtimeconfig.dev.json
+C:\Users\lucas.chacon\introducaoOO\bin\Debug\net5.0\introducaoOO.dll
+C:\Users\lucas.chacon\introducaoOO\bin\Debug\net5.0\ref\introducaoOO.dll
+C:\Users\lucas.chacon\introducaoOO\bin\Debug\net5.0\introducaoOO.pdb
+C:\Users\lucas.chacon\introducaoOO\obj\Debug\net5.0\introducaoOO.csproj.AssemblyReference.cache
+C:\Users\lucas.chacon\introducaoOO\obj\Debug\net5.0\introducaoOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.chacon\introducaoOO\obj\Debug\net5.0\introducaoOO.AssemblyInfoInputs.cache
+C:\Users\lucas.chacon\introducaoOO\obj\Debug\net5.0\introducaoOO.AssemblyInfo.cs
+C:\Users\lucas.chacon\introducaoOO\obj\Debug\net5.0\introducaoOO.csproj.CoreCompileInputs.cache
+C:\Users\lucas.chacon\introducaoOO\obj\Debug\net5.0\introducaoOO.dll
+C:\Users\lucas.chacon\introducaoOO\obj\Debug\net5.0\ref\introducaoOO.dll
+C:\Users\lucas.chacon\introducaoOO\obj\Debug\net5.0\introducaoOO.pdb
+C:\Users\lucas.chacon\introducaoOO\obj\Debug\net5.0\introducaoOO.genruntimeconfig.cache
