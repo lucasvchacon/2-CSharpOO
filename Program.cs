@@ -26,13 +26,24 @@ namespace introducaoOO
             Console.WriteLine("Número: " + contaDoLucas.numero);
             Console.WriteLine("Saldo: " + contaDoLucas.saldo);
 
-            
+            contaDoLucas.Depositar(500);
+            Console.WriteLine(contaDoLucas.saldo);
 
-           
-            
+            ContaCorrente contaDaGabriela = new ContaCorrente();
 
+            contaDaGabriela.titular = " Gabriela";
 
+            Console.WriteLine ( "Saldo do Lucas" + contaDoLucas.saldo);
+            Console.WriteLine ( "Saldo da Gabriela" +contaDaGabriela.saldo);
 
+            bool resultadoTransferencia = contaDoLucas.Tranfesrir(200, contaDaGabriela);
+
+            Console.WriteLine ( "Saldo do Lucas" + contaDoLucas.saldo);
+            Console.WriteLine ( "Saldo da Gabriela" +contaDaGabriela.saldo);
+
+            Console.WriteLine("Resultado tranferência" + resultadoTransferencia);
+
+        
             Console.ReadLine();
 
         }
